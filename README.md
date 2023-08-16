@@ -1,3 +1,4 @@
 # Intrusion_Detection
 
-#### This is a currently ongoing project. More details will be release as the project progresses.
+#### Abstract
+In this research project, we approach the problem of machine learning-based network intrusion detection of unknown attacks. We first formulate this problem as a branch of machine learning technique known as Open Set Recognition, as we not only want to detect unknown attacks, but also classify known attacks. Subsequently, we explore several datasets and existing algorithms in the domain of open set intrusion detection. Following that, we propose our approach, which is a data augmentation technique that creates psuedo-unknown samples for training using a convex combination of known existing samples. We show that our approach is not only comparable but also for most of the times, outperform current baselines. Lastly, we provide an analysis of our approach and future directions.
